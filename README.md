@@ -7,13 +7,15 @@
 
 ### Tech Stack 
 #### Programming Languages 
-<img src='https://user-images.githubusercontent.com/98472023/216710902-0e5eb188-b15f-4864-9cc8-085f492caa9d.png' width=40 height=40> 
-<img src='https://user-images.githubusercontent.com/98472023/216711014-0b25146d-0d9f-44a2-bfbb-197468e3b6a4.png' width=40 height=40> 
-<img src='https://user-images.githubusercontent.com/98472023/216711171-8a699183-0364-49cc-8cf6-babe0ecf2dfe.png' width=40 height=40> 
-<img src='https://user-images.githubusercontent.com/98472023/216711943-47ee1ace-ac08-4f3c-bd6c-40c1a8e8c691.png' width=40 height=40> 
-<img src='https://user-images.githubusercontent.com/98472023/216712028-0a4f992b-b367-456a-9337-1d86c096e8a9.png' width=40 height=40> 
-<img src='https://user-images.githubusercontent.com/98472023/216712106-b069862a-7421-44e0-8b44-5e7c80db2b54.png' width=40 height=40> 
-<img src='https://user-images.githubusercontent.com/98472023/216711117-4a7f3ba0-e773-4218-83eb-ff4c776779aa.png' width=40 height=40> 
+<p>
+<img src='https://user-images.githubusercontent.com/98472023/216710902-0e5eb188-b15f-4864-9cc8-085f492caa9d.png' width=50 height=50> 
+<img src='https://user-images.githubusercontent.com/98472023/216711014-0b25146d-0d9f-44a2-bfbb-197468e3b6a4.png' width=50 height=50> 
+<img src='https://user-images.githubusercontent.com/98472023/216711171-8a699183-0364-49cc-8cf6-babe0ecf2dfe.png' width=50 height=50> 
+<img src='https://user-images.githubusercontent.com/98472023/216711943-47ee1ace-ac08-4f3c-bd6c-40c1a8e8c691.png' width=50 height=50> 
+<img src='https://user-images.githubusercontent.com/98472023/216712028-0a4f992b-b367-456a-9337-1d86c096e8a9.png' width=50 height=50> 
+<img src='https://user-images.githubusercontent.com/98472023/216712106-b069862a-7421-44e0-8b44-5e7c80db2b54.png' width=50 height=50> 
+<img src='https://user-images.githubusercontent.com/98472023/216711117-4a7f3ba0-e773-4218-83eb-ff4c776779aa.png' width=50 height=50> 
+</p>
 #### Frameworks/Libraries 
 #### Softwares
 
