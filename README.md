@@ -9,10 +9,12 @@
 #### Programming Languages 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![ANTLR4](https://img.shields.io/badge/ANTLR4-red?style=for-the-badge)
+![Lex](https://img.shields.io/badge/Lex-yellow?style=for-the-badge)
+![Yacc](https://img.shields.io/badge/Yacc-black?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-<!-- Add lex, yacc, antlr -->
 
 #### Frameworks/Libraries
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
