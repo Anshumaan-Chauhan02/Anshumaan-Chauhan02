@@ -50,6 +50,7 @@
 #### Databases and Cloud Services
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Snowflake](https://a11ybadges.com/badge?logo=snowflake)
 
 
 <!--
